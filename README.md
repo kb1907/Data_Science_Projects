@@ -13,5 +13,6 @@
 
 1. ### [Top Amazon 50 Books with Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Amazon_Top50_Books/top-50-books-with-detailed-eda.ipynb)
 2.  ### [Data Analyst Job Description- Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Data_Analyst_Job/beginner-friendly-detailed-eda.ipynb)
-
+3. ### [UDEMY Course Analysis - Deatiled EDA - Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Detailed_EDA_on_UDEMY_Courses/plotly-beginner-friendly-udemy.ipynb)
+4. 
 - All the best
