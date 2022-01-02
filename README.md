@@ -13,6 +13,12 @@
 
 1. ### [Top Amazon 50 Books with Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Amazon_Top50_Books/top-50-books-with-detailed-eda.ipynb)
 2.  ### [Data Analyst Job Description- Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Data_Analyst_Job/beginner-friendly-detailed-eda.ipynb)
-3. ### [UDEMY Course Analysis - Deatiled EDA - Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Detailed_EDA_on_UDEMY_Courses/plotly-beginner-friendly-udemy.ipynb)
-4. 
+3. ### [UDEMY Course Analysis - Detailed EDA - Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Detailed_EDA_on_UDEMY_Courses/plotly-beginner-friendly-udemy.ipynb)
+4. ### [Life Expectancy based on the Historical Data- Detailed EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Life_expectancy/plotly-beginner-friendly.ipynb)
+5. ### [Top Android Games on Google - EDA -Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Top_Android_Games_Detailed_EDA/plotly-beginner-friendly-top-games.ipynb)
+6. ### [World Happiniess Report- Detailed EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/World_Happiness_Report/plotly-beginner-friendly-eda.ipynb)
+7. ### [Top Netflix Movies - EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Top_Netflix_Movies/plotly-beginner-friendly-netflix.ipynb)
+8. ### [Hollywood Most Profitable PRoductions- EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/top-movies-eda-with-detailed-explanations/plotly-beginner-friendly-top-movies.ipynb)
+9. ### [Detailed EDA of Bike Sharing Project - Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/London_bike_Sharing_EDA/plotly-beginner-friendly-london-bike.ipynb)
+
 - All the best
