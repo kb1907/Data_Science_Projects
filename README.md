@@ -8,7 +8,10 @@
 
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
 
+## PROJECTS
 
-### [Top Amazon 50 Books with Deatiled EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Amazon_Top50_Books/top-50-books-with-detailed-eda.ipynb)
+
+1. ### [Top Amazon 50 Books with Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Amazon_Top50_Books/top-50-books-with-detailed-eda.ipynb)
+2.  ### [Data Analyst Job Description- Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Data_Analyst_Job/beginner-friendly-detailed-eda.ipynb)
 
 - All the best
