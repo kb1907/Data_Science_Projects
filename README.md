@@ -20,5 +20,6 @@
 7. ### [Top Netflix Movies - EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Top_Netflix_Movies/plotly-beginner-friendly-netflix.ipynb)
 8. ### [Hollywood Most Profitable PRoductions- EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/top-movies-eda-with-detailed-explanations/plotly-beginner-friendly-top-movies.ipynb)
 9. ### [Detailed EDA of Bike Sharing Project - Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/London_bike_Sharing_EDA/plotly-beginner-friendly-london-bike.ipynb)
+10. ### [Google App Review](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Google_App_Review/Google_App_Review.ipynb)
 
 - All the best
