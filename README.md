@@ -13,8 +13,10 @@
 
 
 1. ### [Top Amazon 50 Books with Detailed EDA- Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Amazon_Top50_Books/top-50-books-with-detailed-eda.ipynb)
-2.  ### [Data Analyst Job Description- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs/notebook)
-![Screen Shot 2022-01-11 at 3 46 48 PM](https://user-images.githubusercontent.com/51021282/148954301-0351506d-fd26-4691-b424-6d5bfa2b7bfe.png)
+<img src="https://user-images.githubusercontent.com/51021282/148955040-09d62c18-5cb2-422d-ae72-fa4e0a3ae040.png" width="600" height="400">
+
+3.  ### [Data Analyst Job Description- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs/notebook)
+<img src="https://user-images.githubusercontent.com/51021282/148954301-0351506d-fd26-4691-b424-6d5bfa2b7bfe.png" width="600" height="400">
 
 4. ### [UDEMY Course Analysis - Detailed EDA - Plotly](https://nbviewer.org/github/kb1907/Data_Science_Projects/blob/main/Projects/Detailed_EDA_on_UDEMY_Courses/plotly-beginner-friendly-udemy.ipynb)
 5. ### [Life Expectancy based on the Historical Data- Detailed EDA- Plotly](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Life_expectancy/plotly-beginner-friendly.ipynb)
