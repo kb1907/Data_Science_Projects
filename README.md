@@ -27,6 +27,7 @@
 ### 4. [Life Expectancy based on the Historical Data- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly)
 <img src="https://user-images.githubusercontent.com/51021282/148988098-6e978b90-e772-4754-8af9-8ec276de1aa5.png" width="600" height="400">
 
+
 ### 5. [Top Android Games on Google - EDA -Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-top-games)
 <img src="https://user-images.githubusercontent.com/51021282/148989159-822e8797-f1f6-4f10-8469-77bfc12ddd3e.png" width="600" height="400">
 
