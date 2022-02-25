@@ -23,6 +23,7 @@
 ### 3. [UDEMY Course Analysis - Detailed EDA - Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-udemy)
 <img src="https://user-images.githubusercontent.com/51021282/148987331-abd1aec8-af26-45af-8c09-b81f19a3458c.png" width="600" height="400">
 
+
 ### 4. [Life Expectancy based on the Historical Data- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly)
 <img src="https://user-images.githubusercontent.com/51021282/148988098-6e978b90-e772-4754-8af9-8ec276de1aa5.png" width="600" height="400">
 
