@@ -16,6 +16,7 @@
 <img src="https://user-images.githubusercontent.com/51021282/148954301-0351506d-fd26-4691-b424-6d5bfa2b7bfe.png" width="600" height="400">
 
 
+
 ### 2. [Top Amazon 50 Books with Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-amazon)
 <img src="https://user-images.githubusercontent.com/51021282/148955040-09d62c18-5cb2-422d-ae72-fa4e0a3ae040.png" width="600" height="400">
 
