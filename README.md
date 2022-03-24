@@ -18,7 +18,6 @@
 ### 2. [Top Amazon 50 Books with Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-amazon)
 <img src="https://user-images.githubusercontent.com/51021282/148955040-09d62c18-5cb2-422d-ae72-fa4e0a3ae040.png" width="600" height="400">
 
-
 ### 3. [UDEMY Course Analysis - Detailed EDA - Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-udemy)
 <img src="https://user-images.githubusercontent.com/51021282/148987331-abd1aec8-af26-45af-8c09-b81f19a3458c.png" width="600" height="400">
 
