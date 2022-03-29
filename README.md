@@ -11,6 +11,7 @@
 ## PROJECTS
 ------------------------------------------------------
 
+
 ### 1. [Data Analyst Job Description- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs)
 <img src="https://user-images.githubusercontent.com/51021282/148954301-0351506d-fd26-4691-b424-6d5bfa2b7bfe.png" width="600" height="400">
 
