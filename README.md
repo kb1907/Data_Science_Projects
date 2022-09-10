@@ -23,7 +23,6 @@
 <img src="https://user-images.githubusercontent.com/51021282/148987331-abd1aec8-af26-45af-8c09-b81f19a3458c.png" width="600" height="400">
 
 
-
 ### 4. [Life Expectancy based on the Historical Data- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly)
 <img src="https://user-images.githubusercontent.com/51021282/148988098-6e978b90-e772-4754-8af9-8ec276de1aa5.png" width="600" height="400">
 
@@ -31,9 +30,9 @@
 <img src="https://user-images.githubusercontent.com/51021282/148989159-822e8797-f1f6-4f10-8469-77bfc12ddd3e.png" width="600" height="400">
 
 
+
 ### 6. [World Happiniess Report- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-eda)
 <img src="https://user-images.githubusercontent.com/51021282/148989509-418e7b02-918d-4200-abcc-09b5df805739.png" width="600" height="400">
-
 
 ### 7. [Top Netflix Movies - EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-netflix)
 <img src="https://user-images.githubusercontent.com/51021282/148989872-04a25dbc-507d-45a3-9813-7b073ab6d457.png" width="600" height="400">
@@ -47,5 +46,6 @@
 
 ### 10. [Google App Review](https://github.com/kb1907/Data_Science_Projects/blob/main/Projects/Google_App_Review/Google_App_Review.ipynb)
 <img src="https://user-images.githubusercontent.com/51021282/148991108-2ac6de9b-0fd2-4c35-8331-96b24f49aca0.png" width="600" height="400">
+
 
 
