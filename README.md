@@ -6,14 +6,15 @@
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 
+
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
+
 
 ## PROJECTS
 ------------------------------------------------------
 
 ### 1. [Data Analyst Job Description- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs)
 <img src="https://user-images.githubusercontent.com/51021282/148954301-0351506d-fd26-4691-b424-6d5bfa2b7bfe.png" width="600" height="400">
-
 
 
 ### 2. [Top Amazon 50 Books with Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-amazon)
