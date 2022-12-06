@@ -6,9 +6,7 @@
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 
-
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
-
 
 ## PROJECTS
 ------------------------------------------------------
@@ -29,7 +27,6 @@
 
 ### 5. [Top Android Games on Google - EDA -Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-top-games)
 <img src="https://user-images.githubusercontent.com/51021282/148989159-822e8797-f1f6-4f10-8469-77bfc12ddd3e.png" width="600" height="400">
-
 
 
 ### 6. [World Happiniess Report- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-eda)
