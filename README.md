@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/51021282/148989159-822e8797-f1f6-4f10-8469-77bfc12ddd3e.png" width="600" height="400">
 
 
-### 6. [World Happiniess Report- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-eda)
+### 6. [World Happiness Report- Detailed EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-eda)
 <img src="https://user-images.githubusercontent.com/51021282/148989509-418e7b02-918d-4200-abcc-09b5df805739.png" width="600" height="400">
 
 ### 7. [Top Netflix Movies - EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-netflix)
