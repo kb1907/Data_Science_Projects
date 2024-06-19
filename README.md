@@ -4,6 +4,7 @@
 - In this folder, different scale Data Science projects can be found.
 - You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
+
   
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
 
