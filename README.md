@@ -34,7 +34,7 @@
 ### 7. [Top Netflix Movies - EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-netflix)
 <img src="https://user-images.githubusercontent.com/51021282/148989872-04a25dbc-507d-45a3-9813-7b073ab6d457.png" width="600" height="400">
 
-### 8. [Hollywood Most Profitable PRoductions- EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-top-movies)
+### 8. [Hollywood Most Profitable Productions- EDA- Plotly](https://www.kaggle.com/kaanboke/plotly-beginner-friendly-top-movies)
 <img src="https://user-images.githubusercontent.com/51021282/148990276-76360ebc-3b6e-4945-851e-4fc8f8676ca7.png" width="600" height="400">
 
 
